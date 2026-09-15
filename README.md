@@ -2,7 +2,7 @@
 
 A self-built network lab combining IS-IS, RIP v2, EIGRP, OSPF, and BGP into a single end-to-end topology, with full two-way route redistribution across every protocol boundary. The lab proves connectivity by running an actual client-server HTTP request across the entire chain.
 
-**Status: Checkpoint 1 complete.** Core routing and redistribution are done and verified. The project continues from here with additional security-focused work.
+Core routing and redistribution are done and verified. project continues from here with security-focused work.
 
 ## What this demonstrates
 
