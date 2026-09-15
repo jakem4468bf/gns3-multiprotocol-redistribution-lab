@@ -84,7 +84,3 @@ A successful `curl` response confirms the request and its return traffic correct
 ## Tools used
 
 GNS3, Cisco IOS (routers), VMware Workstation, Kali Linux, Python 3, FastAPI, Uvicorn, curl
-
-## What's next
-
-This checkpoint marks the routing and connectivity objective as complete. The lab continues from here with security-focused work built on top of this foundation.
